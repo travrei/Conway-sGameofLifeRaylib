@@ -1,6 +1,8 @@
 # Conway's Game of Life em C com Raylib
 Este projeto é uma implementação do "Jogo da Vida" de John Conway, desenvolvido em C utilizando a biblioteca Raylib para a renderização gráfica.
 
+![Game of Life Demo](gameoflife.gif)
+
 ## Descrição
 O Jogo da Vida é um autômato celular que consiste em uma grade de células que podem estar "vivas" ou "mortas". O estado de cada célula na próxima geração é determinado por um conjunto de regras simples, baseadas no número de vizinhos vivos.
 
